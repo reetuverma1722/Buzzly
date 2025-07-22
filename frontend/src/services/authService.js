@@ -1,5 +1,4 @@
-import axios from 'axios';
-
+import axios from 'axios'
 const BASE_URL = 'http://localhost:5000/api/auth';
 
 // Login with email and password
